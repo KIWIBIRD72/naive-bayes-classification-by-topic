@@ -1,4 +1,6 @@
 # About
+Naive bayes classification by topics
+
 ## Topic modeling using supervised learning
 Text classification on topics:
 - politics
